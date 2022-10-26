@@ -96,12 +96,12 @@
                   <biblScope unit="issue">نمره ٥٣٣</biblScope>
                   <biblScope unit="page">صفحة ٣</biblScope></bibl></head>
             <p><persName>شرمى افندى معاون الترسانات</persName> قدم <rs type="تقرير">تقريرا</rs> الى
-                  <orgName type="مجلس_المشورة">مجلس المشورة</orgName> مضمونه ان
-                  <placeName>الشونة</placeName> الكائنة ب<placeName>مصر القديمة</placeName> يصرف
-               عليها فى ماهية ناظرها وخدمتها والمراكب المستخدمة بها واجرة الريس والملاحين مبلغ قدره
-               تسعة آلاف و مائتان واربعة وثمانون قرشا ونصف قرش وان المصلحة المذكورة كانت سابقا تابعة
-                  [ل]<orgName type="ديوان_اشغال_المحروسة">ديوان اشغال المحروسة</orgName> وكان المبلغ
-               المذكور يصرف لاربابه من
+                  <orgName type="مجلس_المشورة">مجلس المشورة</orgName> مضمونه ان الشونة الكائنة
+                  ب<placeName>مصر القديمة</placeName> يصرف عليها فى ماهية ناظرها وخدمتها والمراكب
+               المستخدمة بها واجرة الريس والملاحين مبلغ قدره تسعة آلاف و مائتان واربعة وثمانون قرشا
+               ونصف قرش وان المصلحة المذكورة كانت سابقا تابعة [ل]<orgName
+                  type="ديوان_اشغال_المحروسة">ديوان اشغال المحروسة</orgName> وكان المبلغ المذكور
+               يصرف لاربابه من
                   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?><orgName
                   type="الديوان">الديوان</orgName><?oxy_custom_end?> نقدا والحال ان المصلحة الحقت
                الان
@@ -134,12 +134,12 @@
                <bibl><biblScope unit="issue">نمره ٥٣٤</biblScope><biblScope unit="page"> صفحة
                      ١</biblScope></bibl></head>
             <?oxy_custom_start type="oxy_content_highlight" color="220,20,60"?>
-            <p> حوادث <orgName type="المشورة_الملكية">المشورة الملكية</orgName></p><?oxy_custom_end?>
+            <head> حوادث <orgName type="المشورة_الملكية">المشورة الملكية</orgName></head><?oxy_custom_end?>
             <p>لما كشف بارادة الخديوى عن
                <?oxy_custom_start type="oxy_content_highlight" color="220,20,60"?>الترعة<?oxy_custom_end?>
                التى يراد عملها فى
-                  <placeName><?oxy_custom_start type="oxy_content_highlight" color="220,20,60"?>الجانب
-                  الشرقى<?oxy_custom_end?></placeName> لدفع المضيرة الواقعة بتحول<placeName> النيل
+               <?oxy_custom_start type="oxy_content_highlight" color="220,20,60"?>الجانب
+               الشرقى<?oxy_custom_end?> لدفع المضيرة الواقعة بتحول<placeName> النيل
                   المبارك</placeName> الى <placeName>مقبل بولاق</placeName> من الجانب الغربى وتبين
                انه يكون ابتداؤها من<orgName type=" ترسانة_بولاق"> ترسانة بولاق</orgName> وانتهاؤها
                   الى<placeName> بستان <persName>خليل افندى</persName></placeName> و طولها سبعمائة
